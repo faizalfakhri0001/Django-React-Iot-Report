@@ -1,0 +1,12 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    background: #8BB7CE;
+    background: -moz-radial-gradient(top, #8BB7CE 0%, #006881 82%, #005265 100%);
+    background: -webkit-radial-gradient(top, #8BB7CE 0%, #006881 82%, #005265 100%);
+    background: radial-gradient(ellipse at top, #8BB7CE 0%, #006881 82%, #005265 100%);
+    height: 100vh;
+
+    align-items: center;
+    justify-content: center;
+}

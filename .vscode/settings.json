@@ -1,0 +1,23 @@
+{
+  "python.pythonPath": "c:\\Users\\Lenovo\\Desktop\\mysite\\env\\Scripts\\python.exe",
+  "python.linting.enabled": true,
+  "editor.formatOnSave": true,
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.pylintPath": "pylint",
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django",
+    "--errors-only"
+  ],
+  "python.formatting.autopep8Args": [
+    "--max-line-length=200"
+  ],
+  "python.linting.pylintEnabled": true,
+  "python.linting.pycodestyleArgs": [
+    "--ignore=E501"
+  ],
+  "files.exclude": {
+    "**/*.pyc": true
+  },
+  "git.ignoreLimitWarning": true,
+}

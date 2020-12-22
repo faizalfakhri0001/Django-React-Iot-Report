@@ -1,0 +1,18 @@
+Model:
+    - Project
+        - IotChannel
+        - IotChannelAPIKey
+        - Field
+        - Data
+        
+
+Serializer
+    - Project
+        - IotChannel
+            - All Channel
+            - For Each User
+        
+        - IotChannelAPIKey
+
+        - Field
+            - For Each Channel
