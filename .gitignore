@@ -75,7 +75,7 @@ pytestdebug.log
 
 # Django stuff:
 secret_key.txt
-map.txt
+Map.txt
 
 # Flask stuff:
 instance/
